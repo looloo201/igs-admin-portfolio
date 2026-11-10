@@ -122,7 +122,6 @@ button:disabled {
 }
 .nav-link.active {
   font-weight: 700;
-  box-shadow: inset 3px 0 #fff;
 }
 .nav-link em {
   margin-left: auto;
